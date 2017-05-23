@@ -1,0 +1,3 @@
+edu.emmerson.wso2.custom.mediator.trycatch.TryMediatorSerializer
+edu.emmerson.wso2.custom.mediator.trycatch.CatchMediatorSerializer
+edu.emmerson.wso2.custom.mediator.trycatch.TryCatchMediatorSerializer

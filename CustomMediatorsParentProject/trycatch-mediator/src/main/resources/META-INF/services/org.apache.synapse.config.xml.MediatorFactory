@@ -1,0 +1,3 @@
+edu.emmerson.wso2.custom.mediator.trycatch.TryMediatorFactory
+edu.emmerson.wso2.custom.mediator.trycatch.CatchMediatorFactory
+edu.emmerson.wso2.custom.mediator.trycatch.TryCatchMediatorFactory
